@@ -1,0 +1,27 @@
+{
+  "fisioterapia": {
+    "tittle": "Fisioterapia",
+    "img": "physioServices.jpg",
+    "description": "Orienta sus acciones al mantenimiento, optimización y potencialización del movimiento corporal humano, así como a la prevención, recuperación de sus alteraciones y rehabilitación integral de las personas, con el fin de optimizar su calidad de vida."
+  },
+  "terapiaRespiratoria": {
+    "tittle": "Terapia Respiratoria",
+    "img": "terapiaRespiratoria.jpg",
+    "description": "Enfocada a la promoción e intervención terapéutica en patologías cardio-pulmonares, garantizando la salud respiratoria del ser humano."
+  },
+  "terapiaOcupacional": {
+    "tittle": "Terapia Ocupacional",
+    "img": "ocupationalTherapy.jpg",
+    "description": "El objetivo principal es permitir que las personas participen en el desempeño de las actividades de la vida cotidiana, la promoción de estilos de vida saludables y la prevención, tratamiento y rehabilitación de personas con discapacidades y limitaciones funcionales."
+  },
+  "fonoaudiologia": {
+    "tittle": "Fonoaudiologia",
+    "img": "phonoaudiology.jpg",
+    "description": "Se enmarca en la comunicación humana sus alteraciones o desordenes, con el fin de garantizar el bienestar comunicativo y la calidad de vida de las personas, se relaciona con procesos de audición, voz, habla, lenguaje y deglución."
+  },
+  "presoterapia": {
+    "tittle": "Presoterapia",
+    "img": "",
+    "description": "Se enmarca en la comunicación humana sus alteraciones o desordenes, con el fin de garantizar el bienestar comunicativo y la calidad de vida de las personas, se relaciona con procesos de audición, voz, habla, lenguaje y deglución."
+  }
+}
